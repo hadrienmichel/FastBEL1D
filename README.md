@@ -17,7 +17,7 @@ The toolbox that is inside this package is an imporoved version of the codes use
 ## Installation
 [![win](https://img.shields.io/badge/Windows%2064bit-BEL1D%20v3.0-blue.svg?style=flat&logo=Microsoft&logoColor=white)](https://github.com/hadrienmichel/fastbel1d/releases/download/v3.0/BEL1D.exe)
 
-Download the [(windows installer)](https://github.com/hadrienmichel/fastbel1d/releases/download/v3.0/BEL1D.exe). This will install the BEL1D interface on your computer along with the Matlab runtime.
+Download the [windows installer](https://github.com/hadrienmichel/fastbel1d/releases/download/v3.0/BEL1D.exe). This will install the BEL1D interface on your computer along with the Matlab runtime.
 There is no version for UNIX systems.
 
 ## Usage
