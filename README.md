@@ -15,9 +15,9 @@ The toolbox that is inside this package is an imporoved version of the codes use
 3. General case (Need to be in matlab and not the executable version!!!)
 
 ## Installation
-To install the packages, just copy the main directory at the location that pleases you. In order to use the full functionalities of the codes, you **must** have:
-1. A windows version (the MEX code for surface waves is compiled for Windows), the codes have naver been tested on another platform, but you would need to compile the Geopsy libraries for your machine.
-2. [MRSmatlab](https://doi.org/10.1190/geo2015-0461.1) installed in your MATLAB environment (for the computation of sensitivity kernels in SNMR).
+[![win](https://img.shields.io/badge/Windows%2064bit-BEL1D%20v3.0-blue.svg?style=flat&logo=Microsoft&logoColor=white)](https://github.com/hadrienmichel/fastbel1d/releases/download/v3.0/BEL1D.exe)
+Download the [(windows installer)](https://github.com/hadrienmichel/fastbel1d/releases/download/v3.0/BEL1D.exe). This will install the BEL1D interface on your computer along with the Matlab runtime.
+There is no version for UNIX systems.
 
 ## Usage
 
